@@ -1,4 +1,5 @@
 Codebook for tidyoutput.txt
+===========================
 
 actity                  factor
         A text field representing the activity observed
